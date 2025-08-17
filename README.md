@@ -31,6 +31,7 @@ This minimal version serves as a starting point. Potential enhancements include:
 
 # Contract Address
 Deployed Contract Address:  0xe40679ef774fb80a3b9095b0cf60a66a40c345c80a7f61571334952ae58db7a9
+
 Network: Aptos Devnet
 
 
